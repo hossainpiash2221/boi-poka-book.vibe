@@ -5,7 +5,7 @@ import Books from '../Books/Books';
 const Home = () => {
     return (
         <div>
-           <p>zakia hoque zitu</p>
+
             <Banner></Banner>
             <Books></Books>
         </div>
